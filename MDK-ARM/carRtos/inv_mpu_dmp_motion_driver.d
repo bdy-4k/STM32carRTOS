@@ -1,0 +1,10 @@
+.\carrtos\inv_mpu_dmp_motion_driver.o: ..\hardware\inv_mpu_dmp_motion_driver.c
+.\carrtos\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: ..\hardware\inv_mpu.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: ..\hardware\inv_mpu_dmp_motion_driver.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: ..\hardware\dmpKey.h
+.\carrtos\inv_mpu_dmp_motion_driver.o: ..\hardware\dmpmap.h
